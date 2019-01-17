@@ -1,0 +1,4 @@
+includes:
+    - vendor/phpstan/phpstan-doctrine/extension.neon
+    - vendor/phpstan/phpstan-strict-rules/rules.neon
+    - vendor/localheinz/phpstan-rules/rules.neon
