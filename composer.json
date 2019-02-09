@@ -13,7 +13,8 @@
         "phpstan/phpstan": "^0.11",
         "localheinz/phpstan-rules": "^0.6.0",
         "phpstan/phpstan-doctrine": "^0.11.0",
-        "phpstan/phpstan-strict-rules": "^0.11.1"
+        "phpstan/phpstan-strict-rules": "^0.11.1",
+        "roave/no-floaters": "^1.1"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
