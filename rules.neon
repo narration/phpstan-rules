@@ -1,4 +1,3 @@
 includes:
-    - ../../phpstan/phpstan-doctrine/extension.neon
     - ../../phpstan/phpstan-strict-rules/rules.neon
     - ../../localheinz/phpstan-rules/rules.neon
